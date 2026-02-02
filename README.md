@@ -12,5 +12,5 @@ Ingeniero electrónico y automático por la **Universidad de Zaragoza (UNIZAR)**
 
 ### 🏔️ Background Personal
 
-Además de la ingeniería, soy **ciclista de élite** y **alpinista**. Traslado la disciplina, la resistencia y la capacidad de análisis bajo presión del deporte de alto rendimiento a cada desafío técnico y proyecto de I+D.
+Además de la ingeniería, soy **ciclista de élite** y **alpinista**. 
 
