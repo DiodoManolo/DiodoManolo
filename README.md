@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me
 
-<!--
-**DiodoManolo/DiodoManolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ingeniero electrónico y automático por la **Universidad de Zaragoza (UNIZAR)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Engineering Skills
+
+*   **Analog & Digital Electronics:** Diseño de circuitos de acondicionamiento, filtrado y lógica digital.
+*   **Hardware Prototyping:** Desde el protoboard hasta la verificación final de sistemas embebidos y hardware.
+*   **Instrumentation & Testing:** Manejo de osciloscopio, analizador lógico y fuentes de precisión para diagnóstico y puesta a punto.
+*   **Biomedical Tech:** Gran interés en la interfaz electrónica-fisiología, biosensores y su aplicación en sistemas biológicos.
+
+### 🏔️ Background Personal
+
+Además de la ingeniería, soy **ciclista de élite** y **alpinista**. Traslado la disciplina, la resistencia y la capacidad de análisis bajo presión del deporte de alto rendimiento a cada desafío técnico y proyecto de I+D.
+
